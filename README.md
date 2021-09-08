@@ -1,6 +1,6 @@
 # BP_Sensor
 
-This code use [MetaWear Python SDK](https://github.com/mbientlab/MetaWear-SDK-Python)
+This code uses [MetaWear Python SDK](https://github.com/mbientlab/MetaWear-SDK-Python)
 
 __You can use only Linux environment__
 
