@@ -1,9 +1,7 @@
 # UCI cBP (continuous Blood Pressure) demo
 Link : https://pypi.org/project/uci-cbp-demo/0.2.5/
 
-This project uses [MetaWear Python SDK](https://github.com/mbientlab/MetaWear-SDK-Python)
-
-__This project works in only Linux environment__
+This project uses [MetaWear Python SDK](https://github.com/mbientlab/MetaWear-SDK-Python) and works in only Linux environment.
 
 # Install
 
