@@ -3,7 +3,7 @@ Link : https://pypi.org/project/uci-cbp-demo/0.2.5/
 
 This project uses [MetaWear Python SDK](https://github.com/mbientlab/MetaWear-SDK-Python) and works in only Linux environment.
 
-# Install
+# How to install
 
 The API metawear depends on [Warble](https://github.com/mbientlab/Warble) and Warble requires 3 installations
 
@@ -40,7 +40,7 @@ To use the bluez, First, the device files are installed and then, we have to ins
     $ sudo setcap 'cap_net_raw,cap_net_admin+eip' `which hcitool`
 ```
 
-# PyGATTLib
+## PyGATTLib
 ```shell script
 pip3 download gattlib
 tar xvzf ./gattlib-0.20150805.tar.gz
