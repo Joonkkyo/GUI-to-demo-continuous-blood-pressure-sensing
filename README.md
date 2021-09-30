@@ -1,7 +1,7 @@
 # BP_Sensor
 Link : https://pypi.org/project/uci-cbp-demo/0.2.5/
-This code uses [MetaWear Python SDK](https://github.com/mbientlab/MetaWear-SDK-Python)
 
+This project uses [MetaWear Python SDK](https://github.com/mbientlab/MetaWear-SDK-Python)
 
 __This project works in only Linux environment__
 
