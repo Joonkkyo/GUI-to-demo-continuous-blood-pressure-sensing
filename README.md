@@ -1,4 +1,4 @@
-# BP_Sensor
+# UCI cBP (continuous Blood Pressure) demo
 Link : https://pypi.org/project/uci-cbp-demo/0.2.5/
 
 This project uses [MetaWear Python SDK](https://github.com/mbientlab/MetaWear-SDK-Python)
