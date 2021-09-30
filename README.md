@@ -2,7 +2,7 @@
 
 This code uses [MetaWear Python SDK](https://github.com/mbientlab/MetaWear-SDK-Python)
 
-__You can use only Linux environment__
+__This project works in only Linux environment__
 
 # Install
 
