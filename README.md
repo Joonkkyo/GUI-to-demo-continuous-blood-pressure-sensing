@@ -50,6 +50,6 @@ pip3 install .
 ```
     
 # Usage
-If you execute this code, After finding the bluetooth device near our device, you can choose device which you want to connect
+If you execute this code, after finding the bluetooth device near our device, you can choose a device which you want to connect.
 
 ![original](https://media.github.uci.edu/user/1629/files/80d5cf80-b2ed-11e9-9451-93a25e901b81)
