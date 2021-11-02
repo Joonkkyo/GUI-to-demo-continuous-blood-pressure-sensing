@@ -11,7 +11,7 @@ The API metawear depends on [Warble](https://github.com/mbientlab/Warble) and Wa
 Boost headers.   
 GNU with a C++ compiler that support C++ 14.  
 
-To use the bluez, First, the device files are installed and then, we have to install bluez. You can also use apt to get bluez-util as [Metawear tutorial on Linux](https://mbientlab.com/tutorials/Linux.html), but this way can cause some error. So, you have to use a makefile in order to install bluez.
+To use `bluez`, the device files should be installed and we have to install bluez. You can also use `apt` to get bluez-util as [Metawear tutorial on Linux](https://mbientlab.com/tutorials/Linux.html), but this way can cause some error. So, you have to use a makefile in order to install bluez.
 
 ## On Ubuntu
     $ sudo apt-get update
